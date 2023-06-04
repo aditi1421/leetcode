@@ -20,3 +20,10 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 ## Example 2: 
 Input: strs = ["eat","tea","tan","ate","nat","bat"]
 Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
+
+# 3. Given an integer x, return true if x is a palindrome and false otherwise.
+
+## Example 3: 
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
