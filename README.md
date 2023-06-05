@@ -34,3 +34,5 @@ https://youtu.be/yubRKwixN-U
 
 Input: nums = [1,2,3,1]
 Output: true
+
+https://youtu.be/AU_GBuaW00Y
